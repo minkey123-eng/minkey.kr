@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>minkey.kr</title>
+  <link>https://minkey.kr/</link>
+  <description>요술공주 민키 블로그 RSS 피드</description>
+  <lastBuildDate>Fri, 15 Aug 2025 12:00:00 +0900</lastBuildDate>
+  <language>ko</language>
+
+  <item>
+    <title>홈페이지 연결 완료</title>
+    <link>https://minkey.kr/</link>
+    <description>이 도메인은 GitHub Pages로 연결되었습니다.</description>
+    <pubDate>Fri, 15 Aug 2025 12:00:00 +0900</pubDate>
+  </item>
+
+</channel>
+</rss>
